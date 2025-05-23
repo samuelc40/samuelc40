@@ -2,13 +2,6 @@
 
 Hi, I'm **Samuel Joseph** — a self-taught Full Stack Developer and aspiring Data Scientist. I blend software engineering with data-driven problem solving to build impactful digital solutions. With a strong backend focus in **Django** and **Golang**, I specialize in creating scalable web applications and leveraging data to extract meaningful insights.
 
-### 🔧 Tech Stack
-
-I work across the stack with technologies such as **Golang**, **Django**, and **RESTful APIs** for backend development, and **React JS**, **Tailwind CSS**, and **Bootstrap** for frontend interfaces. My data science toolkit includes **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **TensorFlow**, and **Power BI**. I'm also experienced in working with **PostgreSQL**, **SQL**, and database design using ERD diagrams. For development and deployment, I rely on tools like **GitLab**, **NGINX**, **Insomnia**, and **Hoppscotch**.
-
-### 📊 Data Science Experience
-
-I completed a Data Science training program at **Arcraft Infotech**, where I worked on data analysis, machine learning, and predictive modeling. During my time there, I developed skills in building data pipelines using Python, processing datasets with SQL, and creating compelling visualizations with Power BI. I am also applying AI/ML techniques in real-world applications like an **Automatic Face Recognition Attendance System**.
 
 ### 💼 Professional Roles
 
