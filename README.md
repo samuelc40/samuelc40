@@ -1,5 +1,22 @@
-# 💫 About Me:
-👋 About Me<br>Hi, I'm Samuel Joseph — a self-taught Full Stack Developer and aspiring Data Scientist, blending software engineering with data-driven problem solving. With a backend focus in Django and Golang, I build scalable web applications and leverage data to create meaningful insights.<br><br>🔧 Tech Stack:<br><br>Backend: Golang, Django, RESTful APIs<br><br>Frontend: React JS, Tailwind CSS, Bootstrap<br><br>Data Science: Python, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI<br><br>Database: PostgreSQL, SQL, ERD Design<br><br>Dev Tools: GitLab, NGINX, Insomnia, Hoppscotch<br><br>📊 Data Science Experience:<br><br>Trained at Arcraft Infotech on data analysis, machine learning, and predictive modeling<br><br>Built projects involving Python data pipelines, SQL data processing, and Power BI visualizations<br><br>Applying AI/ML skills in real-world apps like an Automatic Face Recognition Attendance System<br><br>💼 Professional Roles:<br><br>Golang Developer at Cloudhouse Technologies Pvt. Ltd.<br><br>Full Stack Python Developer (Freelance)<br><br>Data Science Trainee at Arcraft Infotech
+# 💫 About Me
+
+Hi, I'm **Samuel Joseph** — a self-taught Full Stack Developer and aspiring Data Scientist. I blend software engineering with data-driven problem solving to build impactful digital solutions. With a strong backend focus in **Django** and **Golang**, I specialize in creating scalable web applications and leveraging data to extract meaningful insights.
+
+### 🔧 Tech Stack
+
+I work across the stack with technologies such as **Golang**, **Django**, and **RESTful APIs** for backend development, and **React JS**, **Tailwind CSS**, and **Bootstrap** for frontend interfaces. My data science toolkit includes **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **TensorFlow**, and **Power BI**. I'm also experienced in working with **PostgreSQL**, **SQL**, and database design using ERD diagrams. For development and deployment, I rely on tools like **GitLab**, **NGINX**, **Insomnia**, and **Hoppscotch**.
+
+### 📊 Data Science Experience
+
+I completed a Data Science training program at **Arcraft Infotech**, where I worked on data analysis, machine learning, and predictive modeling. During my time there, I developed skills in building data pipelines using Python, processing datasets with SQL, and creating compelling visualizations with Power BI. I am also applying AI/ML techniques in real-world applications like an **Automatic Face Recognition Attendance System**.
+
+### 💼 Professional Roles
+
+- **Golang Developer** at Cloudhouse Technologies Pvt. Ltd., where I build server-side applications in a collaborative environment.
+- **Freelance Full Stack Python Developer**, delivering full-cycle web development solutions to clients.
+- **Data Science Trainee** at Arcraft Infotech, focusing on data modeling and machine learning workflows.
+
+
 
 
 ## 🌐 Socials:
